@@ -60,9 +60,9 @@ main{
 }
 
 .hero h1 {
-    font-size: 80px;
+    font-size: 60px;
     margin-bottom: 120px;
-	line-height:88px;
+	line-height:66px;
 	max-width:848px;
 	font-weight: normal;
 }
@@ -146,7 +146,7 @@ footer {
 }
 .focused_cont{
 	margin-top:12px;
-	max-width:711px;
+	max-width:790px;
 	
 }
 .footer_head p{
